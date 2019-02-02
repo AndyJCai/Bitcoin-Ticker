@@ -3,7 +3,6 @@
 //  BitcoinTicker
 //
 //  Created by Andy Cai on 1/30/19.
-//  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
 import UIKit
